@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projecs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mtalhak003](https://github.com/mtalhak003)
-
 - 📫 How to reach me **mtalhak9753@gmail.com**
 
 - 📄 Know about my experiences (1 year)
