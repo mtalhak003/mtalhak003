@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Embedded Systems, Edge AI**
 
-- 🌱 I’m currently learning **Embedded Linux, Edge AI & Advanced Computer Architecture**
+- 🌱 I’m currently learning **Embedded Systems, Edge AI & Advanced Computer Architecture**
 
 - 👯 I’m looking to collaborate on **Edge Cutting Technologies**
 
